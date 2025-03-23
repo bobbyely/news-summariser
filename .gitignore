@@ -1,2 +1,4 @@
 notebooks/*
 data_dir/*
+creds.env
+ec2-key-pair.pem
